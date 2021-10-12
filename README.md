@@ -1,0 +1,4 @@
+- 👋 Hi, my name is Vincent!
+- 👀 I’m interested in science, astronomy, software engineering and tech
+- 🌱 I’m currently learning Java, JavaFX, GraalVM and native-image building
+- 📫 You can find me on Twitter; @supernov and the website of Aries Productions; astropixelprocessor.com. My own site is in development.
