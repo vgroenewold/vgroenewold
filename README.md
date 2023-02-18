@@ -4,5 +4,5 @@
 <li>🌱 I’m currently learning Java, JavaFX, GraalVM and native-image building
 <p>
   <li>📫 I can be reached at <a href="mailto:punishedbrains@gmail.com">punishedbrains@gmail.com</a> or <a href="mailto:vincent@astropixelprocessor.com">vincent@astropixelprocessor.com</a>
-<li>🐤 On the twitterverse at <a href="https://www.twitter.com/supernov">@supernov</a> or on Mastodon at <a rel="me" href="https://fosstodon.org/@supernov">@supernov@fosstodon.org</a>
+<li>🐤 On Mastodon at <a rel="me" href="https://fosstodon.org/@supernov">@supernov@fosstodon.org</a>
 <li>🙊 You can talk to me in English, Dutch and German
