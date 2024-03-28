@@ -3,6 +3,6 @@
 <li>👀 I’m interested in science, astronomy, software engineering and tech
 <li>🌱 I’m currently learning Java, GraalVM, native-image building and Rust
 <p>
-  <li>📫 I can be reached at <a href="mailto:punishedbrains@gmail.com">punishedbrains@gmail.com</a> or <a href="mailto:vincent@astropixelprocessor.com">vincent@astropixelprocessor.com</a>
+  <li>📫 I can be reached at <a href="mailto:punishedbrains@gmail.com">punishedbrains@gmail.com</a> or <a href="mailto:vincentgroenewold@pm.me">vincentgroenewold@pm.me</a>
 <li>🐤 On Mastodon at <a rel="me" href="https://fosstodon.org/@supernov">@supernov@fosstodon.org</a>
 <li>🙊 You can talk to me in English, Dutch and German
