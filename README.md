@@ -5,4 +5,5 @@
 <p>
   <li>📫 I can be reached at <a href="mailto:punishedbrains@gmail.com">punishedbrains@gmail.com</a> or <a href="mailto:vincentgroenewold@pm.me">vincentgroenewold@pm.me</a>
 <li>🐤 On Mastodon at <a rel="me" href="https://fosstodon.org/@supernov">@supernov@fosstodon.org</a>
+<li>   On Bluesky at <a rel="me" href="https://supernovnld.bsky.social">@supernovnld.bsky.social</a>
 <li>🙊 You can talk to me in English, Dutch and German
