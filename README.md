@@ -5,5 +5,4 @@
 <p>
   <li>📫 I can be reached at <a href="mailto:github@vincent.simplelogin.com">github@vincent.simplelogin.com</a>
 <li>🐤 On Mastodon at <a rel="me" href="https://hachyderm.io/@supernov">https://hachyderm.io/@supernov</a>
-<li>   On Bluesky at <a rel="me" href="https://supernovnld.bsky.social">@supernovnld.bsky.social</a>
 <li>🙊 You can talk to me in English, Dutch and German
